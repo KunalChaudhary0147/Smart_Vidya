@@ -154,7 +154,3 @@ The app includes bundled resources for UI and ML support:
 - Login state is stored locally using `SharedPreferences`.
 - The app is configured with a dark theme by default.
 - Firebase and Google sign-in are included for authentication flows.
-
-## License
-
-Add your preferred license before publishing the repository publicly.
